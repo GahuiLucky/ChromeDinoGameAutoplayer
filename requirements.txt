@@ -1,0 +1,6 @@
+opencv-python
+numpy
+imagesize
+ctypes
+pyautogui
+mss
