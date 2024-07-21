@@ -1,5 +1,5 @@
 ```
-# Chrome Dino Game Automatic Player
+# ChromeDinoGameAutomplayer
 
 Welcome to the Chrome Dino Game Automatic Player! This project is an exciting dive into automating the popular offline Chrome Dino Game, where the dinosaur jumps over obstacles to keep running as long as possible.
 
